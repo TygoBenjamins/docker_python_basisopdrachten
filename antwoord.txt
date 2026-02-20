@@ -1,0 +1,9 @@
+Vraag: wat vind jij van de huidige regering? 
+Antwoord: ku
+
+Vraag: wat vind jij van de python cursus? 
+Antwoord: t
+
+Vraag: wat vind jij de mooiste stad van Nederland? 
+Antwoord: Zwolle
+
