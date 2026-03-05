@@ -1,0 +1,5 @@
+Wat is je voornaam? 
+Wat is je achternaam? 
+wat neem je mee aan drinken? 
+Wat neem je mee aan eten? 
+Bedankt voor het invullen van de enquete!
